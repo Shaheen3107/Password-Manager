@@ -65,8 +65,9 @@ python password_manager.py
 
 👩‍💻 Author
 
-Shaheen Saiyad
+Shaheen Akram
 Python & ML Enthusiast 🚀
+
 
 
 
