@@ -63,17 +63,10 @@ python password_manager.py
 - The JSON file is **not included in the repository**
 - It is **automatically created** when the first password is saved
 
-🚧 Future Improvements
-
-Password encryption
-Master password authentication
-Password strength checker
-Clipboard copy feature
-GUI version (Tkinter / PyQt)
-
 👩‍💻 Author
 
 Shaheen Saiyad
 Python & ML Enthusiast 🚀
+
 
 
